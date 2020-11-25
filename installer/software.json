@@ -1,0 +1,12 @@
+[
+{
+"url":"https://sbp.enterprisedb.com/getfile.jsp?fileid=12851&_ga=2.190071401.392792735.1604659419-193250623.1604501803",
+"software":"postgre.exe",
+"version":"13.0"
+},
+{
+"url":"https://fastdl.mongodb.org/windows/mongodb-windows-x86_64-4.4.1-signed.msi",
+"software":"mongo.msi",
+"version":"4.4.1"
+}
+]
